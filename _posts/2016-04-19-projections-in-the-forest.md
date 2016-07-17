@@ -1,16 +1,15 @@
 ---
-datePublished: '2016-06-13T23:40:24.127Z'
+datePublished: '2016-07-17T12:53:12.442Z'
 sourcePath: _posts/2016-04-19-projections-in-the-forest.md
 inFeed: true
-isBasedOnUrl: 'https://vimeo.com/115082758'
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author:
   - name: 3hund
     url: 'http://vimeo.com/3hund'
     avatar: {}
-dateModified: '2016-06-13T23:40:23.493Z'
+dateModified: '2016-07-17T12:53:12.041Z'
 title: Projections in the Forest
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/115082758'
@@ -52,6 +51,7 @@ description: >-
   "bioluminescence".
 inNav: false
 starred: false
+url: projections-in-the-forest/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
