@@ -6,9 +6,14 @@ color:
   saturation: 0.2833088575862348
   rhythmicContrast: 0.8516719499602914
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
 name: Barkers Bites
+navigation:
+  - id: b83f040c-fbc7-46ba-a1df-f46a71fbbb33
+    url: 2016-04-19-projections-in-the-forest.html
+    name: Projections in the Forest
+    type: content
