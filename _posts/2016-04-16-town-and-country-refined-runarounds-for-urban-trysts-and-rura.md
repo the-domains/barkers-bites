@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-06-13T23:40:24.118Z'
+datePublished: '2016-07-29T13:46:21.683Z'
 sourcePath: >-
   _posts/2016-04-16-town-and-country-refined-runarounds-for-urban-trysts-and-rura.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.wallpaper.com/gallery/lifestyle/town-country-refined-runarounds-for-urban-trysts-and-cool-cruisers-for-rural-rendezvous
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - audi
   - e-tron
@@ -22,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-13T23:40:23.541Z'
+dateModified: '2016-07-29T13:46:21.106Z'
 title: 'Town & country: refined runarounds for urban trysts and rural rendezvous.'
 app_links: []
 publisher:
@@ -35,7 +33,9 @@ description: >-
   rural rendezvous
 inLanguage: en
 inNav: false
+via: {}
 starred: false
+url: town-and-country-refined-runarounds-for-urban-trysts-and-rura/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
