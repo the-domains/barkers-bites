@@ -19,5 +19,9 @@ navigation:
   - name: 'Interview: Artist Ryan McGinness on Designing for Hennessy'
     id: d9c2c758-ed8c-48f9-88b9-6b4fa32245e4
     type: content
+  - name: About us
+    url: >-
+      https://testing.thegrid.io/app/navcreate/choose?siteID=d0dec508-58f3-475b-a48a-ecb37b9c456d
+    type: external
 title: 'Finally, hipster food for the masses!'
 description: sign up now or hold you peace
