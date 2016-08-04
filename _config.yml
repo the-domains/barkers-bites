@@ -26,5 +26,8 @@ navigation:
   - name: 'Town & country: refined runarounds for urban trysts and rural rendezvous.'
     id: 2019a9a0-0941-455d-a70c-1a1d2de200e7
     type: content
+  - name: Cool Stuff
+    url: 'http://tympanus.net/Development/MorphingDevices/'
+    type: external
 title: 'Finally, hipster food for the masses!'
 description: sign up now or hold you peace
