@@ -17,6 +17,9 @@ navigation:
     url: >-
       https://testing.thegrid.io/app/navcreate/choose?siteID=d0dec508-58f3-475b-a48a-ecb37b9c456d
     type: external
+  - name: Cool Stuff
+    url: 'http://tympanus.net/Development/MorphingDevices/'
+    type: external
   - name: Projections in the Forest
     id: b83f040c-fbc7-46ba-a1df-f46a71fbbb33
     type: content
@@ -26,8 +29,5 @@ navigation:
   - name: 'Town & country: refined runarounds for urban trysts and rural rendezvous.'
     id: 2019a9a0-0941-455d-a70c-1a1d2de200e7
     type: content
-  - name: Cool Stuff
-    url: 'http://tympanus.net/Development/MorphingDevices/'
-    type: external
 title: 'Finally, hipster food for the masses!'
 description: sign up now or hold you peace
