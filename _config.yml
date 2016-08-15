@@ -17,12 +17,12 @@ navigation:
     url: >-
       https://testing.thegrid.io/app/navcreate/choose?siteID=d0dec508-58f3-475b-a48a-ecb37b9c456d
     type: external
-  - name: Projections in the Forest
-    id: b83f040c-fbc7-46ba-a1df-f46a71fbbb33
-    type: content
   - name: Cool Stuff
     url: 'http://tympanus.net/Development/MorphingDevices/'
     type: external
+  - name: Projections in the Forest
+    id: b83f040c-fbc7-46ba-a1df-f46a71fbbb33
+    type: content
   - name: 'Interview: Artist Ryan McGinness on Designing for Hennessy'
     id: d9c2c758-ed8c-48f9-88b9-6b4fa32245e4
     type: content
